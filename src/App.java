@@ -1,8 +1,8 @@
 public class App {
     public static void main(String[] args) throws Exception {
         String creator = "Vinh";
-        int number1 = 5;
-        int number2 = 2;
+        int number1 = 6;
+        int number2 = 1;
         int multiplication, addition, division, subtraction;
 
         System.out.println("Printer App");
